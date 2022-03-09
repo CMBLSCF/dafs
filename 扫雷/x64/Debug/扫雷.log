@@ -1,0 +1,3 @@
+﻿  代码扫雷.cpp
+E:\visual dtdio的文件\c++学习\扫雷\代码扫雷.cpp(182): warning C4715: “mouseEvent”: 不是所有的控件路径都返回值
+  扫雷.vcxproj -> E:\visual dtdio的文件\c++学习\扫雷\x64\Debug\扫雷.exe
